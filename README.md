@@ -4,7 +4,6 @@
 - 🔭 Desenvolvedora Front-end
 - 🌱 Cursando análise e desenvolvimento de sistemas
 - 😄 Pronomes: ela/dela
-- 👩‍💻 apaixonada por tecnologia
 - 💻Focada na parte front-end
 
   ## 
