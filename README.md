@@ -5,8 +5,7 @@
 - 🌱 Cursando análise e desenvolvimento de sistemas
 - 😄 Pronomes: ela/dela
 - 💻Focada na parte front-end
-
-  ## 
+## 
  <div>
   <a href="https://github.com/Gabriela">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabriela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
