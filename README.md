@@ -1,10 +1,10 @@
 ### Olá eu sou a Gabriela 👋
 
 
-- 🔭 Desenvolvedora Front-end
-- 🌱 Cursando análise e desenvolvimento de sistemas
+- 🔭 Estudante 
+- 🌱 Cursando Sistemas de informação 
 - 😄 Pronomes: ela/dela
-- 💻Focada na parte front-end
+  
 ## 
  <div>
   <a href="https://github.com/Gabriela">
